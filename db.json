@@ -58,7 +58,7 @@
     },
     {
       "id": 4,
-      "username": "Marina Safwat",
+      "username": "Marina Ayman",
       "avatar": "/assets/6.jpeg",
       "email": "JohnSnow@gmail.com",
       "status": "active",
@@ -70,9 +70,9 @@
     },
     {
       "id": 5,
-      "username": "Mariam Safwat",
-      "avatar": "/assets/MariamSafwat.jpeg",
-      "email": "safwatmariam499@gmail.com",
+      "username": "Ahmed Ibrahim",
+      "avatar": "/assets/8.jpeg",
+      "email": "test@test.gmail",
       "status": "active",
       "transaction": "$120.00",
       "phone": "+20 127 936 2639",
@@ -127,6 +127,42 @@
       "birthdate": "15-10-1993",
       "location": "Cairo | Egypt",
       "title": "FrontEnd Developer"
+    },
+    {
+      "id": 10,
+      "username": "Mohamed Ali",
+      "avatar": "/assets/6.jpeg",
+      "email": "JohnSnow@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 120 657 126",
+      "birthdate": "15-10-1986",
+      "location": "Cairo | Egypt",
+      "title": "Graphic Designer"
+    },
+    {
+      "id": 11,
+      "username": "Ayman Ahmed",
+      "avatar": "/assets/6.jpeg",
+      "email": "test@test.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 127 936 2639",
+      "birthdate": "12-7-1999",
+      "location": "Cairo | Egypt",
+      "title": "Social Media Marketer"
+    },
+    {
+      "id": 12,
+      "username": "Maria Maher",
+      "avatar": "/assets/6.jpeg",
+      "email": "Maria Maher99@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 120 657 126",
+      "birthdate": "22-12-1987",
+      "location": "Cairo | Egypt",
+      "title": "Backend Developer"
     }
   ],
   "smallWgetUsers": [
