@@ -21,6 +21,78 @@
   ],
   "users": [
     {
+      "id": 1,
+      "username": "John Snow",
+      "avatar": "/assets/6.jpeg",
+      "email": "JohnSnow@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 120 150 987",
+      "birthdate": "2-2-1999",
+      "location": "New York | USA",
+      "title": "Product Designer"
+    },
+    {
+      "id": 2,
+      "username": "Michael Michel",
+      "avatar": "/assets/7.jpeg",
+      "email": "MichaelMichel@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 110 234 231",
+      "birthdate": "10-5-1988",
+      "location": "New York | USA",
+      "title": "Frontend Developer - React.js"
+    },
+    {
+      "id": 3,
+      "username": "Mina Atef",
+      "avatar": "/assets/8.jpeg",
+      "email": "MinaAtef98@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 101 232 546",
+      "birthdate": "2-2-1989",
+      "location": "Cairo | Egypt",
+      "title": "Data Analyst"
+    },
+    {
+      "id": 4,
+      "username": "Marina Safwat",
+      "avatar": "/assets/6.jpeg",
+      "email": "JohnSnow@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 120 657 126",
+      "birthdate": "15-10-1986",
+      "location": "Cairo | Egypt",
+      "title": "Graphic Designer"
+    },
+    {
+      "id": 5,
+      "username": "Mariam Safwat",
+      "avatar": "/assets/MariamSafwat.jpeg",
+      "email": "safwatmariam499@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 127 936 2639",
+      "birthdate": "12-7-1999",
+      "location": "Cairo | Egypt",
+      "title": "Social Media Marketer"
+    },
+    {
+      "id": 6,
+      "username": "Maria Maher",
+      "avatar": "/assets/6.jpeg",
+      "email": "Maria Maher99@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 120 657 126",
+      "birthdate": "22-12-1987",
+      "location": "Cairo | Egypt",
+      "title": "Backend Developer"
+    },
+    {
       "id": 7,
       "username": "Anna John",
       "avatar": "/assets/7.jpeg",
