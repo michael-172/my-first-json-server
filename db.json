@@ -159,7 +159,7 @@
     },
     {
       "id": 4,
-      "username": "Marina Safwat",
+      "username": "Mohamed Ahmed",
       "avatar": "/assets/6.jpeg",
       "title": "DevOps Engineer",
       "email": "JohnSnow@gmail.com",
@@ -168,8 +168,8 @@
     },
     {
       "id": 5,
-      "username": "Mariam Safwat",
-      "avatar": "/assets/7.jpeg",
+      "username": "Ahmed Ibrahim",
+      "avatar": "/assets/8.jpeg",
       "title": "Graphic Designer",
       "email": "JohnSnow@gmail.com",
       "status": "active",
