@@ -1,0 +1,144 @@
+{
+  "books": [
+    {
+      "Description": "This is Book 3",
+      "price": "520",
+      "title": "Book 3",
+      "id": 3
+    },
+    {
+      "Description": "This is Book 4\n",
+      "price": "410",
+      "title": "Book 4",
+      "id": 4
+    },
+    {
+      "Description": "This book to learn css",
+      "price": "1500",
+      "title": "Learn Css in Arabic ",
+      "id": 5
+    }
+  ],
+  "users": [
+    {
+      "id": 7,
+      "username": "Anna John",
+      "avatar": "/assets/7.jpeg",
+      "email": "Anna John87@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 120 553 232",
+      "birthdate": "15-10-1993",
+      "location": "Cairo | Egypt",
+      "title": "FrontEnd Developer"
+    },
+    {
+      "id": 8,
+      "username": "Anna John",
+      "avatar": "/assets/8.jpeg",
+      "email": "Anna John87@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 120 553 232",
+      "birthdate": "15-10-1993",
+      "location": "Cairo | Egypt",
+      "title": "FrontEnd Developer"
+    },
+    {
+      "id": 9,
+      "username": "Anna John",
+      "avatar": "/assets/7.jpeg",
+      "email": "Anna John87@gmail.com",
+      "status": "active",
+      "transaction": "$120.00",
+      "phone": "+20 120 553 232",
+      "birthdate": "15-10-1993",
+      "location": "Cairo | Egypt",
+      "title": "FrontEnd Developer"
+    }
+  ],
+  "smallWgetUsers": [
+    {
+      "id": 10,
+      "username": "John Snow",
+      "avatar": "/assets/6.jpeg",
+      "title": "Software Developer",
+      "email": "JohnSnow@gmail.com",
+      "status": "active",
+      "transaction": "$120.00"
+    },
+    {
+      "id": 2,
+      "username": "Michael Michel",
+      "avatar": "/assets/7.jpeg",
+      "title": "FrontEnd Developer",
+      "email": "MichaelMichel@gmail.com",
+      "status": "active",
+      "transaction": "$120.00"
+    },
+    {
+      "id": 3,
+      "username": "Mina Atef",
+      "avatar": "/assets/8.jpeg",
+      "title": "Backend Developer",
+      "email": "MinaAtef98@gmail.com",
+      "status": "active",
+      "transaction": "$120.00"
+    },
+    {
+      "id": 4,
+      "username": "Marina Safwat",
+      "avatar": "/assets/6.jpeg",
+      "title": "DevOps Engineer",
+      "email": "JohnSnow@gmail.com",
+      "status": "active",
+      "transaction": "$120.00"
+    },
+    {
+      "id": 5,
+      "username": "Mariam Safwat",
+      "avatar": "/assets/7.jpeg",
+      "title": "Graphic Designer",
+      "email": "JohnSnow@gmail.com",
+      "status": "active",
+      "transaction": "$120.00"
+    }
+  ],
+  "customers": [
+    {
+      "id": 1,
+      "ctsName": "Carol Dane",
+      "dateTransaction": "2-Jan-2022",
+      "amountTransaction": "$150",
+      "status": "Approved"
+    },
+    {
+      "id": 2,
+      "cts-name": "Adam John",
+      "date-of-transaction": "6-Oct-2022",
+      "amount-of-transaction": "$190",
+      "status": "Declined"
+    },
+    {
+      "id": 3,
+      "cts-name": "John Snow",
+      "date-of-transaction": "10-May-2021",
+      "amount-of-transaction": "$400",
+      "status": "Pending"
+    },
+    {
+      "id": 4,
+      "cts-name": "John Edward",
+      "date-of-transaction": "13-Jul-2022",
+      "amount-of-transaction": "$205",
+      "status": "Declined"
+    },
+    {
+      "id": 5,
+      "cts-name": "Michael Anne",
+      "date-of-transaction": "29-Dec-2021",
+      "amount-of-transaction": "$600",
+      "status": "Declined"
+    }
+  ]
+}
